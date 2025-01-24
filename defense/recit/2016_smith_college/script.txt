@@ -1,0 +1,387 @@
+
+- def_smith_college_work_01
+
+Intéressé par la proposition d'Ileana Streinu, je prends mon courage à deux mains 
+pour réaliser les procédures nécessaires à ma candidature (dossier de candidature, 2 lettres de recommandation, etc), 
+la création de mon passeport, l'obtention de mon VISA J-1, passage à l'ambassade des Etats-Unis, etc.
+
+Ma candidature porte ses fruits.
+Je commence le travail au Smith College dans l'équipe de recherche d'Ileana Streinu au mois d'Août 2016.
+
+- def_smith_college_work_02a
+
+Le travail est passionnant. Travailler avec Ileana est très agréable.
+Je suis dans une petite équipe : Mojtaba a passé une thèse, sa femme Maryam nous rejoint plusieurs mois plus tard, 
+des étudiantes travaillent sur des sujets Python aidant l'avancée du projet de recherche sur lequel nous travaillons : Kinari.
+
+- def_smith_college_work_02b
+
+Kinari a pour but de fournir à long terme des outils permettant à des chercheurs d'étudier l'articulation 
+des molécules dans l'espace.
+Ces travaux intéressent notamment le domaine médical qui cherche à comprendre l'articulation des protéines, des virus par exemple.
+Des chercheurs travaillant dans l'étude des cristaux manifestent également un intérêt pour des outils comme Kinari.
+
+- def_smith_college_work_02c
+
+Je développe plusieurs utilitaires et algorithmes C++ à cette fin.
+Ileana (et quelques fois, son mari, professeur aussi) me transmettront les connaissances 
+mathématiques (algèbre linéaire, etc) nécessaires pour cela. 
+Je réalise un premier algorithme qui permet d'indiquer pour une description de molécule donnée 
+le nombre de flexibilité de celle-ci. Si ce nombre vaut 0, la molécule est complètement rigide.
+Si l'on a des flexibilités, on souhaite ensuite calculer l'évolution de la molécule si l'on exerce 
+une force d'une certaine manière, et ainsi observer les mouvements des articulations.
+
+- def_smith_college_work_02d
+
+Kinari à la structure d'un pipeline.
+En entrée du pipeline se trouve le fichier décrivant la molécule (pdb, mmcif).
+Différentes étapes, chacune correspondant à un traitement particulier, s'appliquent succéssivement.
+Il s'agit de développer une chaîne d'opérations où la sortie d'un maillon est l'entrée du suivant.
+Je suis responsable de différents maillons, Mojtaba travaille sur d'autres, etc.
+Ileana développe entre autres l'application web. 
+Chacun apporte ainsi sa pierre à l'édifice.
+
+- def_smith_college_work_03
+
+Ileana apprécie mon travail.
+Ainsi, mon contrat est renouvelé durant l'été 2017 et je suis augmenté.
+
+- def_smith_college_work_04
+
+En 2018, le travail a plutôt bien avancé.
+Nous sommes capable de générer une petite vidéo de l'articulation de petites molécules flexibles.
+
+- def_smith_college_work_05a
+
+En 2018, j'aide Ileana durant ces cours de Printemps comme assistant de cours, en plus de mon travail 
+d'ingénieur de recherche.
+Il s'agit d'un cours ouvert à toutes les étudiantes et les étudiants. On y apprend le langage Mathematica 
+et le logiciel qui va avec. Je découvre ainsi un nouveau langage très orienté mathématiques.
+Il est fort utile pour des calculs et des simulations, et donc réaliser des preuves de concept.
+
+- def_smith_college_work_05b
+
+Les cours-TD d'Ileana s'organisent ainsi : Ileana fait une présentation de nouveaux concepts, puis les 
+étudiantes réalisent des exercices. Ileana et moi passons pour aider celles qui le demandent 
+et suivre qu'aucune ne soit en retard ou bloquée.
+
+Chaque semaine, les étudiantes doivent réaliser des exercices notés.
+Je suis chargé de faire la correction des copies.
+Ileana est celle qui attribue la note finale de chaque devoir.
+
+- def_smith_college_work_05c
+
+Au bout de trois semaines de cours, deux nouvelles étudiantes se sont inscrites au cours d'Ileana.
+Elles ont donc trois semaines de retard. Ileana me charge durant le cours de leur faire rattraper 
+les cours passés. Ce qui n'est pas une mince affaire.
+
+L'une de ces deux nouvelles étudiantes fera des efforts pour rattraper les wagons.
+Elle viendra me poser régulièrement des questions, même lorsque je suis au labo.
+
+Emilie est une étudiante de ce cours avec qui je m'entends bien.
+A la fin du semestre, elle m'offrira des patisseries que je partagerai avec Deborah, Gus & co.
+
+- def_smith_college_work_05d
+
+Je suis chargé de "guider" les étudiantes pour l'épreuve de Midterm.
+Je dis guider, car je ne suis pas autorisé à rester dans la salle d'examen.
+Je ne suis pas habitué à cela. Personne ne surveille la salle.
+Les étudiantes ont le droit à toutes leur notes pour réaliser l'examen.
+(Elle n'ont s'en doute pas le droit de copier l'une sur l'autre ou de s'entraider, mais ça personne ne le surveille.)
+
+Du coup, je dois simplement ouvrir la salle, leur donner accès à l'examen, 
+accompagner une étudiante dans une salle d'examen juste pour elle (dérogation, cas particulier), 
+puis récupérer les copies à la fin du temps imparti.
+
+- def_smith_college_work_05e
+
+Plusieurs étudiantes abandonnent en cours de route. 
+C'est le cas de Gabriel et de l'étudiante arrivée au bout de trois semaines faisant des efforts.
+J'étais déçu que Gabriel quitte le cours. J'avais constaté un retard, mais elle aurait pu y arriver je pense.
+
+La seconde étudiante étant arrivée au bout de trois semaines, est désinscrite du cours également.
+Petit mélodrame dont je n'ai plus vraiment les détails en tête. 
+Ileana a pris cette décision, jugeant cela préférable pour différentes raisons.
+Pour ma part, il était difficile de l'aider tellement son retard était important.
+
+- def_smith_college_work_05f
+
+Ileana me demande de présenter un cours de Mathematica à sa place,
+car elle n'aura pas la possibilité d'assurer elle-même ce cours pour une raison dont je ne me souviens plus.
+J'accepte. Je stresse un peu, mais je parviens à faire le cours souhaité d'Ileana avec les étudiantes.
+
+- def_smith_college_work_06
+
+J'assiste à quelques cours d'algorithmie donnés par Ileana Streinu.
+Ces cours sont excellents, je me sens privilégié de pouvoir y assiter, ça me fait de bons rappels.
+
+J'assiste aussi à des présentations/conférences données au Smith College.
+J'ai par exemple assisté à une présentation du collègue d'Ileana, le Pr O'Rourke avec qui elle partage le labo.
+Celui-ci est spécialisé dans les mathématiques et plus présicément les pliages, leurs propriétés et leurs applications.
+J'ai assisté à une autre présentation, de biologie cette fois-ci, expliquant le fonctionnement des cellules et comment 
+elles savent se différencier suivant leur place dans le corps. Et donc comment "elles connaissent" leur place.
+
+- def_smith_college_work_07
+
+Après la fin des cours en 2018, deux étudiantes se joignent à l'équipe pour travailler durant l'été : Alonda et Eleanord.
+Je m'entends bien avec elles et je les aide quand elles ont besoin d'un coup de main.
+
+- def_usa_01
+
+J'arrive à trouver une collocation dans Northampton à South Street.
+Une étudiante du Smith College, Megan Mc Gahren, rejoint la collocation au milieu du mois d'Août après moi.
+
+Je parle un peu avec elle, mais je la croise peu durant les quelques mois où elle restera à South Street.
+Elle est plutôt gentille. Elle est jolie, mais je n'essaierai pas de sortir avec elle.
+
+- def_usa_02
+
+Différents collocataires se succèdent jusqu'en juin 2017.
+Je m'entends plutôt bien avec chacun d'eux. 
+Je partagerai des crêpes et une blanquette faites maison avec Danny Childs.
+
+- def_usa_03a
+
+En Juin 2017, il me faut trouver une nouvelle location.
+Je finis par trouver une chambre à louer chez Deborah et Gus Vazquez.
+
+Je partagerai beaucoup de moments avec eux et leur famille : les enfants (Pablo et un peu Téo), 
+la soeur de Deborah et sa famille (Rebecca Ashe, Steeve, leurs filles, leurs garçons), 
+la mère de Deborah leur rendant visite de temps en temps (Sonia Ashe).
+
+- def_usa_03b
+
+Je partage des repas avec Deborah et sa famille.
+Des repas cuisinés par Deborah ou moi suivant l'occasion.
+
+Ma blanquette obtient encore un ou deux succès.
+Mon gratin dauphinois également.
+
+- def_usa_04
+
+Je fais l'aller-retour à Boston pour pouvoir voter au Consulat pour le 1er tour des élections présidentielles de 2017.
+
+- def_usa_05a
+
+Mai 2017, ma famille est en vacances aux Etats-Unis.
+Sont présents mes parents et mon oncle et ma tante Gérard et Christine Pellé.
+J'ai visité avec eux Boston et je leur ai présenté Northampton où j'habite.
+
+Le 08 mai, nous prenons le car (Peter Pan bus) direction New-York City.
+Durant le trajet, je suis assis à côté d'une jolie demoiselle.
+Les mots ne viennent pas pour lui faire la conversation.
+Arrivé à New-York, chacun reprend ses valises. Je croise le regard de ma voisine de car.
+Je lui souhaite une bonne journée avec un sourire. 
+Elle me rend mon sourire en me répondant.
+Cette demoiselle semblait aussi gentille que jolie.
+Je regrette de ne pas mettre forcé davantage à lui parler.
+
+- def_usa_05b
+
+J'ai apprécié ces visites.
+J'aime bien Boston. C'est toujours agréable d'y passer lorsque je fais l'aller-retour en France.
+
+- def_usa_06
+
+Maud et Alexandre viennent également me voir aux Etats-Unis durant l'été 2017.
+Je suis alors chez Deborah et sa famille, avec qui ils font connaissance.
+Je visite avec eux Boston et un peu Northampton.
+Ils visiteront New-York sans moi, je n'ai pas assez de jours de congés.
+
+- def_usa_07
+
+Deborah et sa soeur me proposent de me joindre à eux pour une sortie à la plage dans le Connecticut.
+Pablo, les filles et les fils de Rebecca sont présents.
+Je profite de l'eau, du sable, du soleil. Je joue un peu avec les garçons.
+
+Je fais des longueurs dans l'eau. A un moment, je remarque une fille marchant sur le sable allant dans ma direction 
+à mon allure. La demoiselle est jolie et finit par m'accorder un regard. 
+J'avoue être un peu charmé. Les mots et le comportement pour l'approcher pour faire sa connaissance me sont inconnus.
+
+- def_rencontre_chinoise_01
+
+A la fin de l'été 2017, une éclipse solaire est observable aux Etats-Unis.
+C'est l'occasion de profiter de l'extérieur pour une activité extra-professionnelle. 
+Avec Mojtaba, nous nous installons sur l'une des pelouses du Smith College.
+Beaucoup de personnes sont présentes pour l'évènement, chacun avec son moyen d'observation pour l'éclipse.
+Des professeurs et des étudiantes sont présents.
+Moi et Mojtaba sommes dans un cercle de personnes échangeant sur différents sujets.
+Une étudiante chinoise, sympathique, parle de ses origines, comment elle a été adoptée par ses parents américains, etc.
+Elle me demande à un moment ce qui me manque le plus de la France.
+Je lui réponds le fromage. 
+Ma réponse la choque un peu. Elle s'attendait sans doute à une réponse plus sociale, humaine.
+Evidemment que la famille et les amis manquent. C'est tellement évidemment que pour moi la question portait sur le reste.
+Je ne corrige pas, pas très grave.
+
+- def_usa_08
+
+On est début septembre 2017. Une nouvelle année scolaire est sur le point de commencer au Smith College.
+Fatalement, je fais le bilan. J'ai un sentiment de mal être : le temps file, je suis célibataire 
+depuis tant d'années, ...
+Bref, une partie du constat fait dans le sud de la France demeure au niveau personnel et je n'ai pas 
+le sentiment d'avoir réussi à améliorer cela depuis le sud.
+
+Je commence à faire une crise de la trentaine.
+La crise est plus impactante lorsque je me renseigne sur les personnes de types Haut Potentiel.
+Un certain nombre de caractéristiques collent bien (qualité, défaut, inconvénients, rapport aux autres, etc)
+Je suis encore plus mal dans ma peau. 
+Cela arrive à peu près dans la même période où je commence à croiser Vivian les Mercredi soir au CCC.
+
+Je n'ai pas vraiment le temps de digérer l'implication de ma nature Haut Potentiel que je suppose, et des impacts 
+sur ma vie passé et présent. Le mélange des émotions n'aide pas à sortir de mes états d'âme qui me tirent vers le bas.
+
+- def_2017_decembre_13_01
+
+Mercredi 13 Décembre 2017
+
+Je me rends le soir au CCC pour manger. J'espère y voir la pote de Vivian pour m'expliquer et demander des nouvelles de Vivian.
+Ni Vivian, ni sa pote ne sont là. Une étudiante travaillant au bar avec qui je m'entends plutôt bien à une mine grave voire triste.
+L'atmosphère n'est pas agréable, je ne me sens pas à l'aise et mon instinct me dit de rentrer chez moi.
+Je décide de manger simplement quelques crepes, de prendre un thé à emporter et de rentrer chez moi.
+Val n'est pas souriante comme d'habitude et est plutôt contrariée.
+Je vais m'asseoir dans un coin du CCC, loin et seul. Je suis très triste pensant que c'est mort avec Vivian, 
+je n'ai pas vraiment goût à manger.
+Peu de temps après avoir fini mes crepes, la manager du CCC vient me parler.
+
+- def_2017_decembre_13_02
+
+La manager commence la discussion qui était à peu près la suivante, de ce que j'avais compris :
+"
+- Can I sit there?
+J'acquiesce et me replace sur ma chaise. Les yeux surpris et mal à l'aise. Je comprends d'avance le sujet de la conversation.
+- Vivian told me about this email. She is coming in 20 minutes, and your presence would put her uncomfortable.
+It is a little bit difficult to say, but it would be good if you could...
+- ... leave. I must leave.
+- She'll work here the next semester, I have your email, I'll tell you the chiefs she'll work with.
+- Can you repeat?
+She repeats briefly.
+small blank
+Sending an email to a person you don't know with your picture...
+It broke the thing.
+- I think she is a nice person..
+- She is!
+- I had a crush. I didn't want to afraid her.
+- You come here a lot.
+>.>
+small blank
+- I'll send you the schedule when you should not come.
+Understand?
+- Please tell her, I'm sorry for her.
+Elle hésite, puis fais oui de la tête. Ce oui n'est pas entièrement franc, il y a des chances que Vivian n'en ai rien entendu.
+"
+Je quitte le CCC, je ne prends même pas de thé. Je suis sous le choc, je suis triste, 
+j'ai peur des conséquences (Ileana prévenue, perte d'emploi, voire même police..), 
+je rentre chez moi et je pleure. Je ne quitte pas la maison durant deux jours, déprimé.
+Et début d'une longue dépression.
+
+- def_rencontre_chinoise_02
+
+Je revois cette étudiante chinoise au mois de juin 2018, entre la réception du premier HPO et 
+la réception du second HPO. Je suis assis dans l'herbe sous le grand arbre de Chapin Lawn.
+Cette étudiante chinoise passe près de moi. Après son passage, je me rends compte qu'une carte étudiante se trouve 
+dans l'herbe. Il s'agit de celle de l'étudiante venant de passer. Je la conserve me disant qu'il faudra que 
+je trouve le moyen de lui rendre, directement ou indirectement.
+
+La propriétaire de la carte finit par revenir sur les lieux quelques minutes plus tard. 
+Elle me demande si j'ai trouvé sa carte, je lui réponds par l'affirmative et elle récupère sa carte. 
+Nous échangeons quelques phrases avant qu'elle ne continue son chemin.
+Je reste encore un peu sous l'arbre un moment.
+
+- def_alex_coming_out_01
+
+Durant les premiers mois où je suis aux Etats-Unis, Alexandre m'appelle.
+Il est sérieux et peu confiant. Il finit par faire son coming-out 
+et me confier qu'il est homosexuel. 
+Il appréhendait ma réaction et avait peur de perdre son frère, etc.
+Je le rassure en lui confiant que ça ne m'affecte pas.
+Nous discutons un peu plus du sujet. Comment et quand compte-t-il l'annoncer aux parents ? 
+Sujet plus délicat...
+
+- def_politique_economie_and_co_01
+
+On est en automne 2016 et ça commence déjà à parler dans les médias des présidentielles 
+se déroulant dans quelques mois et des candidats auto-proclamés.
+(Aucun candidat n'est reconnu officiellement, vu qu'il faut les parrainages et que cela ne se fait qu'en 2018...)
+
+Je me dis qu'il faut cette fois-ci que je penche correctement sur la question.
+Mais par où commencer ? Je lis l'actualité, je regarde un peu ONPC avec les invités politiques.
+Mais pour creuser, je prends quoi. L'un des sujets qui m'interpellent et qui est revenu quelques fois 
+c'est la dette de la France. Des invités politiques s'indignant de son origine, en discutant, en disputant, etc.
+Eh bien voilà, je commence par là : mais d'où vient cette dette ? 
+
+Déjà, si l'on regarde l'évolution de la dette dans le temps, on constate l'allure exponentielle de la courbe. Inquiétant.
+On constate aussi qu'elle avait une allure plus stable dans le passé...
+
+Des recherches m'amènent à comprendre un point crutial expliquant donc la dérive de la dette : l’article 123 du traité de Lisbonne.
+Bref, c'est le début de mon intérêt plus poussé pour la politique, la géopolitique, l'économie, et même la philosphie...
+
+- def_politique_economie_and_co_02
+
+Mes recherches m'amènent de vidéo YouTube en vidéo YouTube.
+Toutes ne se valent pas, et certaines sont douteuses, dont il faut se méfier.
+
+Mes sources se stabilisent et je finis par suivre les vidéos de l'UPR, de Michel Onfray et de Thinkerview entre autres.
+Ces sources sont des discours construits et présentent des analyses, alternatives crédibles à ce qui est présenté 
+traditionnellement dans les médias.
+
+- def_politique_economie_and_co_03
+
+Les médias "mainstream" ont tord ou du moins leur information est incomplète de mon point de vue.
+Cela me donne confiance en moi. Voir un discours "officiel", semblant raisonné et raisonnable 
+écorné et instatisfaisant à mes yeux, me dit que mon avis n'est peut-être pas si mal, 
+que je peux oser dire des choses avec moins de doutes, vu qu'ils y en a qui ne se privent pas de dire des 
+propos discutables à la télé.
+
+D'où la hausse de confiance en moi.
+En une phrase : 
+Je pourrais peut-être moins douter de se que je pense, et être moins hésitant à dire ce que j'aimerais dire.
+
+- def_pizza_indigestion_01
+
+En automne 2016, je décide d'aller manger une part de pizza chez Greek Taverna.
+La vue d'une mouche se baladant sur l'une des pizzas me fait douter de mon choix.
+Je valide quand même mon choix. L'après-midi, j'ai des douleurs aux intestins terribles.
+J'ai énormément de mal à digérer, au point que je n'arrive pas à me concentrer sur ce que m'explique Ileana.
+Heureusement, cette indigestion sera passagère, mais pas sans douleur.
+
+- def_nuit_glaciale_01
+
+Automne 2017, il fait très froid à l'extérieur.
+La neige recouvre Northampton d'une large épaisseure.
+
+Un problème au niveau de la chaufferie, nous prive de chauffage une nuit.
+Le problème sera réglé le lendemain, après que la personne nous louant l'appartement 
+soit avertie.
+
+Ce fut l'une des nuits les plus froides de ma vie.
+J'ai dû mettre plusieurs épaisseurs sur moi pour ne pas avoir trop froid.
+
+- def_rockfeller_01
+
+Durant ma première année aux Etats-Unis, 
+je tombe sur un article sur la nouvelle greffe de coeur de David Rockfeller, la septième à 101 ans.
+Je suis révolté par la nouvelle.
+Vu l'âge de l'homme, il ne doit pas être celui qui s'occupe des affaires professionnelles depuis un moment.
+
+Des familles se larmoient dans l'espoir d'obtenir un don d'organe pour leurs proches. 
+Ils sont mis sur des listes d'attente.
+La place sur cette liste est définie suivant différents critères de priorités.
+Par exemple, un âge avancé ne vous favorise pas pour être en haut de la liste des receveurs.
+
+Je ne pense pas que David Rockfeller était le plus prioritaire, et cela m'a agacé.
+
+- def_discussion_projets_futurs_01
+
+Fin du Printemps 2018, j'ai une conversation avec Isabella, la fille de Deborah 
+qui a fini ses études d'infirmière. 
+Au cours de notre discussion, nous partageons nos projets pour l'avenir.
+Pour ma part, je partage le fait que je caresse l'espoir de trouver une copine 
+et que je souhaiterais à un moment avoir un enfant.
+
+- def_usa_harvard_01
+
+En 2018, Ileana m'annonce qu'elle a la possibilité de travailler à partir de Septembre prochain à Harvard pour l'année scolaire.
+Elle me dit qu'elle envisage la possibilité pour moi de venir lui rendre visite régulièrement, pour travailler sur Kinari.
+Cela me permettrait de profiter un peu aussi d'Harvard. Une occasion en or.
+
+Occasion qui ne se concrétisera pas vu que le Smith College me remercie en Juin 2018.
