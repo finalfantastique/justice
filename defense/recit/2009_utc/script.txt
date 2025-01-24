@@ -1,0 +1,71 @@
+
+- def_utc_extra_scolaire_01
+
+Durant mes études à l'UTC, je retourne régulièrement sur Toury pour voir mes parents.
+J'en profite généralement pour inviter Maud pour parler, jouer aux jeux vidéo, regarder des vidéos, etc.
+
+Je vois régulièrement Sylvestre en allant à la piscine à Saran avec lui.
+Après la piscine, je vais chez Sylvestre où nous jouons, discutons programmation, etc.
+(J'ai toujours en tête de faire un petit moteur de jeu C++ fait maison, puis un jeu vidéo, depuis l'IUT.)
+
+Ironiquement, je fais plus d'activités avec Sylvestre depuis que je suis à l'UTC que lorsque nous étions à l'IUT.
+
+- def_amour_maud_01
+
+Après le lycée, je fais une rétrospective sur mes sentiments amoureux et mon comportement vis à vis de Typhaine.
+Ma réflexion me conduit à prendre de la distance sur le sujet de l'amour. En quelques sortes, je scelle ce genre de sentiments.
+
+Au cours de mes études supérieurs, je m'entends bien avec Maud que je vois régulièrement.
+L'idée de sortir avec elle me traverse l'esprit. Je finis par débrider mes sentiments et je me laisse séduire par l'idée.
+On s'entend bien, j'ai l'impression que mes sentiments pourraient être réciproques.
+J'hésite. A des moments j'ai envie de me lancer et à d'autres non. 
+Quand je finis par me jeter à l'eau, je me prends un rateau.
+
+- def_utc_stage_playall_01
+
+Dans le cadre de mon cursus d'études d'ingénierie à l'UTC, 
+j'ai réalisé un stage de 6+ mois chez PLAY ALL MANAGEMENT à Paris.
+Mon maître de stage était M. Hubert Sarret.
+L'enseignant de l'IUT chargé de suivre mon stage était M. Antoine Jouglet.
+
+Mon travail a consisté à améliorer l'éditeur de jeux vidéo cross-platform écrit en C++, utilisant wxWidgets.
+J'étais responsable de la refonte d'au moins un outils graphique : le PSR Editor (éditeur d'objets 3D).
+
+J'ai apprécié ce stage et mon travail y a été apprécié.
+
+- def_utc_la13_deux_fois_01
+
+Durant mes études à l'UTC, je dois valider un certain niveau d'anglais.
+Deux choses sont demandées : 
+. Valider l'UV LA13
+. Obtenir le TOEIC
+
+Je dois passer deux fois LA13.
+Le semestre où je passe LA13 pour la seconde fois, ma professeure d'anglais Mme Bouchardon, 
+qui est aussi responsable de l'UV, est surprise que je doive repasser LA13, lors du premier cours.
+
+- def_utc_la13_deux_fois_02
+
+C'est au cours du semestre où j'échoue à valider LA13, 
+que je suis convoqué par le conseil pour m'appeler à me ressaisir.
+
+- def_utc_stage_cea_01
+
+Dans le cadre de mon cursus d'études d'ingénierie à l'UTC, 
+j'ai réalisé mon stage de fin d'études de 6 mois au CEA.
+Mon maître de stage était un chercheur du CEA.
+
+Mon travail a consisté à réalisé un plugin C++ pour le logiciel ParaView utilisé par les chercheurs du CEA 
+pour étudier la dynamique moléculaire.
+L'un des buts était de réaliser des algorithmes performant (permettant d'être utilisé avec plusieurs millions d'atomes) 
+pour obtenir des informations sur la structure des données en entrées (liens entre les atomes).
+Un autre objectif était de réaliser une visualisation moléculaire en accord avec les besoins des chercheurs 
+en utilisant le framework VTK/ParaView.
+
+J'ai apprécié ce stage et mon travail y a été apprécié.
+Mon maître de stage m'a donné une lettre de recommandation pour m'aider dans ma recherche d'emploi par la suite.
+
+- def_utc_trahison_01
+
+A l'UTC, l'angoisse de ne pas réussir à aller au bout de mes études à cause de l'anglais comme principal obstacle, 
+me fait avoir des moments dépressifs avec des pensées suicidaires.
