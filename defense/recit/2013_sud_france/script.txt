@@ -1,0 +1,216 @@
+
+- def_inria_01
+
+Mon premier emploi était un CDD de deux ans à Sophia-Antipolis dans le sud de la France.
+Ma supérieure hiérarchique était la chercheuse Mme Monique Teillaud.
+
+J'ai travaillé sur la bibliothèque C++ CGAL, une boîte à outils d'algorithmes de géométrie.
+Au cours de ces deux ans, j'ai notamment développé un algorithme de 
+triangulation avec points à poids dans un espace périodique 3D, en m'inspirant d'algorithmes de CGAL existant.
+
+Mon travail à fait l'objet de rapports et de présentations.
+Un papier a été réalisé en anglais avec Monique Teillaud.
+J'ai eu l'occasion de présenté mon travail au cours de présentations en anglais.
+Ce fut le cas une fois à Londres dans le cas de la 23è édition de l'IMR.
+Une autre fois, au cours d'un workshop organisé par Monique Teillaud à Nancy à la fin des deux ans.
+C'est au cours de cet évènement que j'ai fait la connaissance du Pr Ileana Streinu travaillant aux Etats-Unis.
+Elle m'a présenté son sujet d'étude et son intérêt pour travailler avec moi.
+
+J'ai beaucoup appris au cours de cette expérience.
+En C++, j'ai découvert des concepts assez techniques que j'ai su apprivoiser.
+J'ai évidemment développé des compétences en géométrie.
+J'ai pris davantage confiance en moi concernant l'anglais surtout à l'oral.
+
+- def_tgv_voisine_01
+
+Lors de l'un de mes trajets en direction de Paris, ma voisine se trouve être une petite fille.
+Elle a pas mal de choses pour s'occuper, cependant le trajet est long : 5h environ.
+A partir du moment où elle commence à s'ennuyer, je me dis que je pourrais essayer de la divertir 
+pour l'aider à passer le temps.
+Ainsi, je converse avec elle sur différents sujets. Elle me parle de la Suisse étant donnée qu'elle y vit avec ses parents, 
+sa maison, etc.
+Ce trajet est passé plus rapidement également pour moi.
+
+- def_cannes_sylvestre_01
+
+Sylvestre vient dans le sud de la France, à Cannes plus exactement près de Sophia-Antipolis où j'habite.
+Il me racontera plus tard que c'était avec des collègues de son entreprise, etc.
+Il passe un week-end dans un hôtel luxueux payé par l'entreprise.
+Il me dira qu'il a surpris une conversation d'une cliente disant "C'est pas si simple d'être rentière", 
+phrase qui l'aurait choqué d'après ses dires.
+
+Lorsqu'il est présent à Cannes, il ne m'envoie même pas un message pour me prévenir.
+
+- def_dev_un_jour_dev_toujours_01
+
+Mes études sont finies et j'ai un premier job.
+Je ne renonce pas pour autant à l'idée de réaliser un jeu sympa en C++ avec un petit moteur fait maison.
+Ainsi, je continue le déveoppement du projet Belianpe, qui subit une refonte appelé Rebirth.
+
+Sylvestre s'éloignera du projet à pas feutré.
+Il dira qu'il a moins le temps, qu'il a d'autres priorités en plus de profiter avec Agathe.
+Bref, le projet ne l'intéresse plus et il le dit à demi-mot.
+
+- def_amis_paca_01
+
+Nouvel endroit, nouveaux amis.
+Je m'entends plutôt bien avec deux doctorants: 
+.Maël Rouxel-Labbé
+.Rémy Thomasse
+
+J'invite quelques fois Maël à venir jouer à la console chez moi.
+Maël est un peu ambivalent à mon goût. Des fois je vais très bien m'entendre avec lui, d'autres fois 
+il peut être cassant ou méprisant à mon égard.
+
+Maël a des passages dépressifs où il se renferme complètement sur lui même,
+ne prononçant quasiment aucun mot à qui que ce soit.
+
+- def_pleurs_nocturnes_01
+
+Très tard le soir, voire même durant la nuit, j'entends des pleurs depuis mon appartement.
+Ma porte-fenêtre est ouverte vue la chaleur.
+Je suis surpris. Les pleurs sont féminins et s'accompagnent de gémissements.
+Cela se fait à interval régulier. 
+Entendre cela est gênant, mais surtout peinant et alertant.
+
+Je me demande s'il ne s'agirait pas d'une jeune femme fortement triste.
+Ma résidence est une résidence étudiante. S'agirait-il d'une étudiante en détresse pour une raison ou une autre ?
+Sur le balcon, je localise les pleurs dans l'un des studios un étage plus bas.
+
+J'hésite, que faire ? Les pleurs sont tellement durs à entendre, que je suis tenté d'aborder depuis mon balcon 
+la personne, ou carrément d'aller frapper à sa porte pour savoir si "tout va bien".
+Je finis par siffler à un moment pour signifier ma présence, que je l'entends.
+Les pleurs s'arrêtent, juste un temps.
+
+Ils finissent par reprendre au bout d'un moment. 
+Ce n'est pas normal de pleurer et gémir avec une telle intensité.
+Finalement, je n'irai pas à la porte de cette voisine. 
+L'idée d'en parler aux gardiens me traverse l'esprit, mais je n'en ferai rien.
+
+- def_emma_watson_9gag_queen_01
+
+Depuis que Lionel m'a présenté le site humouristique 9gag, j'ai pris l'habitude de jeter un oeil de temps en temps.
+Je finis par tomber sur un post parlant de célébrités. Emma Watson est qualifiée de "queen of 9gag".
+Je ne peux m'empêcher de réagir à ce post. Je trouve la "glorification", certes plutôt humouristiques, 
+des personnes concernées "too much". Oui, Emma Watson est jolie, oui elle a brillé et brille comme actrice, 
+mais selon moi, ses actes ne justifient pas les louanges qui lui sont accordées, exagérées à mon sens.
+
+"1er crush" commentent certains. Commentaire que je comprends bien.
+Cependant, ces messages un peu fan-boys, laissent croire que les gens carressent l'espoir de la croiser un jour.
+Pour moi, les gens devraient rester les pieds sur terres. Elle est de mon point de vue inaccessible.
+
+- def_pulsion_de_vie_envie_d_etre_papa_01
+
+Je ressens un désir surprenant.
+En effet, j'ai une envie particulière de faire l'amour.
+A cela vient s'ajouter, une envie d'être papa. Je me projète père, 
+3 ou 4 enfants, 3 garçon 1 fille. Puis la raison, 2 ou 3 ça serait bien.
+
+Bref, une pulsion de vie et mon instinct étaient à l'oeuvre, et les hormones travaillaient pour 
+me rappeler que la reproduction fait bien partie de la nature humaine comme toute 
+espèce vivante sur cette terre.
+
+J'avais déjà réfléchi à l'idée d'avoir des enfants.
+Simplement, que c'était comme si on me disait "il est l'heure !" et que ça venait au premier plan.
+
+- def_construction_de_ma_pensee_01
+
+Depuis la fin de mes études, je m'emploie à m'intéresser à l'actualité.
+
+Mais c'est bien à partir du sud de la France que je me commence à m'intéresser à la politique (ONPC, etc).
+Je construis ma pensée (je me questionne sur l'utilité des sentiments, etc).
+
+Je fais aussi une grande rétrospective sur moi-même au passage.
+
+- def_emma_watson_onu_ambassadrice_eqHF_01
+
+En 2014, Emma Watson fait son discours à l'ONU sur l'égalité homme-femme et présente sa campagne de 
+solidarité nommée HeForShe. Le terme me plaît je trouve qu'il représente mieux l'égalité défendue, 
+que le mot féminisme.
+
+Son discours m'impressionne et me met une petite clac : "Wahou, quel discours, à l'ONU en plus !".
+Ma réflexion sur mon parcours en comparaison me fait un petit électro-choc.
+Je me dis "Et toi à 25 ans qu'est-ce que t'as fait ?".
+Evidemment que tout le monde ne peut pas être sur le devant de la scène, et être aussi impactant, 
+mais ne serait-ce qu'à ma mesure, sur mes 25 ans déjà passées qu'ai-je fait ? 
+Qu'est-ce que j'ai entrepris de bénéfique pour la société à la hauteur de mes capacités, mes moyens ?
+
+Je trouve son action, et son parcours, inspirants. Là, elle a mon attention.
+Je commencerai à suivre celle qui est devenue ambassadrice de bonne volonté à l'ONU pour l'égalité Homme-Femme.
+
+Ça y'est, elle a réussi à me faire avoir des étoiles dans les yeux.
+
+- def_village_vitrine_01
+
+Concerné par la question écologique entre autre, je commence à réfléchir à une solution qui pourrait aider le monde 
+à traiter la question, à aller dans cette voie.
+
+A la fois, je suis conscient que notre mode de consommation n'est pas idéal, de l'autre on ne va pas retourner à l'âge de pierre.
+Hors de question de sacrifier la culture et l'art, c'est ce qui fait l'âme des civilisations, des nations.
+
+Je repense à mon prof de physique qui disait que pour qu'une réaction chimique marche bien, il vallait mieux mettre 
+de petite quantité. Alors pensons petit d'abord. Pensons une preuve de concept.
+
+J'imagine un village. Un village autour d'un cour d'eau. Forcément, les premières cités se sont toujours faites prêt de l'eau, 
+c'est la base. J'imagine de la forêt autour et de l'altitude.
+La vie s'organiserait avec le maximum de local, notamment pour la nouriture avec une ferme locale.
+
+Sur le plan écologique, le but serait de réaliser des demeures qui mettrait en avant les innovations écologiques 
+d'économie d'énergie, de production d'énergie, etc.
+Il serait important tout de même d'accorder de l'attention à l'apparence, l'architecture.
+
+Ainsi, on pourrait faire une vitrine d'un système, d'une cité durable qui fonctionne.
+De l'artisanat serait présent pour que les savoir-faire perdurent.
+
+Un chateau est imaginé. Un tel monument est souhaité non pas pour l'arrogance d'une personne et sa famille, 
+mais pour garder l'esprit de la construction de collectif illustré en un monument, architectural qui n'aurait rien à 
+rougir d'autres monuments construits dans le passé, artistique avec des vitraux, etc.
+Il y en a assez de devoir regarder dans les siècles précédents pour trouver du beau, de l'art dans l'architecture, 
+de la culture dans les monuments.
+Ce chateau aurait une fonction publique et pourrait être visité en grande partie par le peuple.
+Des réceptions publiques, politiques et diplomatiques pour y être organisées notamment.
+
+- def_crise_en_ukraine_01
+
+J'ai le nez dans la géopolitique.
+Le sujet de la crise en Ukraine est inévitable.
+
+Que faire pour faire baisser les tensions ?
+Que faire pour discuter des problèmes qui ont mis le feu au poudre ?
+
+Le sujet est plus complexe que simplement la méchante Russie qui essaye de reconquérir des territoires européens. 
+De l'autre côté les allégations russes sont surprenantes. Sur quoi se basent-ils ? 
+Pourquoi chercheraient-ils un faux prétexte qui donnerait raison à l'occident d'avancer des moyens de défenses 
+qu'ils ne voient pas d'un bon oeil ?
+
+Je m'informe. De mon point de vue, il y a une voie pour le dialogue. Je pense qu'il faut tempérer.
+Lorsqu'un avion transportant des personnes est abattu, je suis choqué, mais je garde mon sang-froid.
+Les pro-russes n'auraient aucun intérêt à se faire passer pour des méchants en abattant des innocents.
+De plus, confondre un avion pareil avec un avion militaire ? Qu'est-ce que c'est que cette histoire ?!
+
+Dans ma tête, je me mets à imaginer un homme seul désarmé, partant de l'Ukraine, traversant les territoires de conflits armés 
+dans le seul but d'atteindre les territoires de l'est de l'Ukraine, pour parler. 
+Il faut discuter avec les pro-russes, il faut leur dire que la voie de la négociation et de la raison est possible.
+
+Une désescalade est possible. Il le faut.
+Une médiation entre l'Ukraine, la Russie avec l'Allemagne se discute.
+Je suis de l'avis que la France compte se faire entendre pour parler d'appaisement.
+Des critiques se font sur François Hollande qui n'aurait rien à y faire. Je ne suis pas de cet avis.
+Ils ne seront pas trop de deux pour ce dossier.
+
+- def_ecologie_cop21_01
+
+Je me penche sur le sujet de la COP21. 
+Je suis les discours des états durant la journée.
+J'espère qu'un accord contraignant ressortira de cette réunion internationale.
+
+- def_debat_commerce_01
+
+Un jour, j'ai une conversation téléphonique avec Lionel De Sequeira sur le sujet du commerce.
+Cette conversation tourne au débat. Il défend la pratique consistant à acheter plus ce dont on a besoin 
+pour revendre à plus cher à ceux qui veulent vraiment l'objet.
+Je suis contre cet pratique que je trouve immorale.
+
+Nous échangeons nos arguments jusqu'au moment où je fais remarquer à Lionel qu'il est revenu à son point de départ, 
+que j'ai déjà critiqué.
+Suite à cela, Lionel ne reconnaitra pas qu'il a tord. Le contraire m'aurait étonné.
