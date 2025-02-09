@@ -643,45 +643,6 @@ On a fait croire que je bougeais tellement pas que j'avais des problèmes cardia
 mirmim qui dit "stop aux projets c'est pas la priorité" ? hum
   rappel des prios (par rapport aux projets infos etc)
 
-- atk_2024__divers_71a
-
-"carte" :> Kyriele ? tac-s-J -__-
-  2024 ? tac-s-J
-  en gros ils appliquent mon conseil (vous voulez que ça continue, provoquez le mirmim) ? tac-s-J
-    ((bah va y avoir des morts non ressucités.))
-    tentative d'agression ? tac
-    le village (Lutesse) ? tac
-      à l'école ? tac-s-J
-    la surveillance corrompue ? tac-s-J
-    armée ? hm
-    tentative d'assassinat ? tac-s-G
-    contre la famille ou les enfants je suppose ? gratte-nez  ((expected))
-    la personne(s) envoyée connaissait le mirmim ? hum
-      donc désespérée
-    les agresseurs tués ? hum
-      attentat suicide ? gratte-nez
-    le mirmim a séparé la bombe de l'assaillant ? tic-cuisine
-    le gars ne s'est pas arrêté là ? tac-s-C
-      il a sorti une arme ? tac
-      Kyriele en réponse ? tac-s-J
-      ressucité ? tac-s-J
-    Julien|Baptiste convoqué sur place ? tac-s-J
-    Bref, autorités (et ambulances) convoquées sur place. (comme d'hab quoi.)
-    Phéniris ? hum  ((just why ?))
-    Bah ils ont envoyé des drones encore et des conneries de ce genre ? tac-s-J
-      sans l'armée ? tac-s-X
-    Y'a eu intervention du mirmim au central alors ? tactac-s
-    une action des corrompus ? tac-s-J
-      une autre bombe ? tac-s-J
-        nucléaire ? tac-s-J
-        française (pour être sûr) ? tac-s-J
-        (donc aval de Macron ? tac-s-J)
-        action empêchée à la base ? tac-s-J
-        Le mirmim a eu deux mots avec EM ? tac-s-C
-    Des corrompus téléportés ? gratte-nez
-    Jacques a utilisé son pouvoir de Bouclier pour protéger le village des attaques.
-      Le destin lui avait demandé de le faire.
-
 - atk_2024__divers_71b
 
 Edouard"Ils s'en fichent. Ils réfléchissent pas." :> Les dirigeants comme Macron, etc ne réfléchissent pas, ils s'en fichent... tac-s-J
@@ -893,30 +854,6 @@ Faire 1 ou deux vidéo sur la nouvelle Calédonie et dom-tom en général.
 - atk_2024__divers_88
 
 Alexandre s'est fait faire des arrêts de travail pour aller dans le sud...
-
-- atk_2024__encore_un_assaut_contre_le_village_01
-
-Fin août - Début Septembre 2024
-
-La secte et son réseau déclenchent une nouvelle offensive contre le village.
-  Vu que leur plan de me tuer pendant les vacances dans le sud a échoué.
-
-Le mirmim déploie une distortion temporelle. Les enfants sont mis à l'abri rapidement.
-Les assaillants qui sont a pieds et utilisant leurs armes, des menaces, sur les civils sont soit tués par Kyriele.
-Les drones sont massacrés par le mirmim en mode phénix, (ou avec Kyriele).
-Les véhicules militaires conduits par des humains sont neutralisés avec Kyriele.
-  Les pilotes sont téléportés à l'extérieurs, tués par Kyriele.
-
-Autorités dépêchées sur place. Ambulances dépêchées sur place.
-Les innocents et les soldats a qui ont a demandé de mener bataille avec de fausses informations 
-  ont été soignés et ressucités.
-
-D'autres personnes, comme Chloé, oeuvrent avec le destin pour contrer les assaillants.
-  Jacques a établi une barrière à la demande du mirmim.
-
-Emmanuel Macron a ordonné ce nouvel assaut, rageant de pas me voir tomber dans le piège mortel 
-  qui m'était présenté lors de vacances dans le sud de la France en Septembre.
-  Le mirmim l'a engueulé, tué, puis ressucité, une fois de plus.
 
 - atk_2024__pression_01
 
